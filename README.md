@@ -1,1 +1,1 @@
-# python-calculator-nidhi
+# python-calculator
